@@ -77,6 +77,9 @@
           <suiteXmlFiles>
             <suiteXmlFile>smokeTestexn.xml</suiteXmlFile>
           </suiteXmlFiles>
+          <systemPropertyVariables>
+			  
+		  </systemPropertyVariables>
         </configuration>
       </plugin>
 </plugins>
