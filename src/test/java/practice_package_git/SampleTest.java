@@ -6,7 +6,7 @@ public class SampleTest {
 	
 	@Test
 	public void sample() {
-		System.out.println("----testscript1---");
+		System.out.println("----testscript2---");
 	}
 	
 	
