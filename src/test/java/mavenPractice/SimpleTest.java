@@ -8,5 +8,16 @@ public class SimpleTest {
 	public void printLine() {
 		
 	}
+	@Test
+	public void mavnprctc()
+		
+	{
+		System.out.println("this is updation");
+	}
+	
+	@Test
+	public void smt() {
+		System.out.println("deepthi");
+	}
 	
 }
