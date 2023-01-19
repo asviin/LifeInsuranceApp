@@ -10,8 +10,10 @@ public class SimpleTest {
 	}
 	@Test
 	public void mavnprctc()
+		
 	{
 		System.out.println("this is updation");
 	}
+	@Test
 	
 }
