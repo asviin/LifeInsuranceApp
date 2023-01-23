@@ -6,6 +6,7 @@ public class SimpleTest {
 
 	@Test(groups="smokeTest")
 	public void printLine() {
+		System.out.println("Smoke test printline");
 		
 	}
 	@Test
