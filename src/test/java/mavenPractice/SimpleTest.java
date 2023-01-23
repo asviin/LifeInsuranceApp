@@ -17,7 +17,7 @@ public class SimpleTest {
 	
 	@Test
 	public void smt() {
-		System.out.println("deepthi");
+		System.out.println("Asviin");
 	}
 	
 }
