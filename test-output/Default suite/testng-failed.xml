@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="mavenPractice.RunSeleniumGrid">
+      <class name="mavenPractice.DcapPractice">
         <methods>
-          <include name="runScript"/>
+          <include name="simp"/>
         </methods>
-      </class> <!-- mavenPractice.RunSeleniumGrid -->
+      </class> <!-- mavenPractice.DcapPractice -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
